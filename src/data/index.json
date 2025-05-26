@@ -1,0 +1,55 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src1": "./img/bracket.png",
+        "title": "Foundations",
+        "description": "Worked on projects involving Java, C, Python, and other foundational languages to build a strong understanding of programming concepts, algorithms, and software design principles.",
+        "src2": "./img/endbracket.png"
+      },
+      {
+        "id": "2",
+        "src1": "./img/bracket.png",
+        "title": "Data Analytics",
+        "description": "Worked on projects using Python (Matplotlib, Plotly, Pandas), Tableau, and Power BI to create interactive visualizations and gain insights from complex datasets.",
+        "src2": "./img/endbracket.png"
+      },
+      {
+        "id": "3",
+        "src1": "./img/bracket.png",
+        "title": "Hardware Design",
+        "description": "Worked on projects involving Verilog, VHDL, Vivado, and Simulink, focusing on hardware design, FPGA programming, and real-time signal processing.",
+        "src2": "./img/endbracket.png"
+      },
+      {
+        "id": "4",
+        "src1": "./img/bracket.png",
+        "title": "Embedded Systems",  
+        "description": "Worked on projects involving Assembly, FreeRTOS, and microcontroller programming, exploring low-level system design, automation, and real-time applications.",
+        "src2": "./img/endbracket.png"
+      }
+    ],
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/cryptic.png",
+        "title": "crypticMagic",
+        "description": "Encrypting and Decrypting files on the terminal using C.",
+        "link": "Source Code"
+      },
+      {
+        "id": "2",
+        "src": "./img/java animation.png",
+        "title": "Animate",
+        "description": "Animating and manipulating shapes through a GUI using Java.",
+        "link": "Source Code"
+      },
+      {
+        "id": "3",
+        "src": "./img/reminder.png",
+        "title": "BillReminder",
+        "description": "Script to remind the user to pay their bills on time using Python.",
+        "link": "Source Code"
+      }
+    ]
+  }
