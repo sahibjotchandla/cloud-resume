@@ -12,7 +12,7 @@ export default function HeroSection() {
               Engineer
             </h1>
             <p className="hero--section-description">
-              I'm a 4th year student with a keen interest in exploring hardware and software concepts in engineering
+              I'm a 4th year student with a keen interest in exploring cloud and data-driven concepts in engineering.
             </p>
           </div>
           <Link

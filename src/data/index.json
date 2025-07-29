@@ -11,21 +11,21 @@
         "id": "2",
         "src1": "./img/bracket.png",
         "title": "Data Analytics",
-        "description": "Worked on projects using Python (Matplotlib, Plotly, Pandas), Tableau, and Power BI to create interactive visualizations and gain insights from complex datasets.",
+        "description": "Worked on projects using Excel, Power BI, and Tableau to create interactive visualizations and gain insights from complex datasets.",
         "src2": "./img/endbracket.png"
       },
       {
         "id": "3",
         "src1": "./img/bracket.png",
-        "title": "Hardware Design",
-        "description": "Worked on projects involving Verilog, VHDL, Vivado, and Simulink, focusing on hardware design, FPGA programming, and real-time signal processing.",
+        "title": "Cloud",
+        "description": "Deployed cloud apps using Azure, Firebase, and GitHub Actions with CI/CD and serverless functions.",
         "src2": "./img/endbracket.png"
       },
       {
         "id": "4",
         "src1": "./img/bracket.png",
-        "title": "Embedded Systems",  
-        "description": "Worked on projects involving Assembly, FreeRTOS, and microcontroller programming, exploring low-level system design, automation, and real-time applications.",
+        "title": "Data Engineering",  
+        "description": "Built ETL pipelines with Python and SQL; automated data flows across Excel, SharePoint, and cloud storage.",
         "src2": "./img/endbracket.png"
       }
     ],
